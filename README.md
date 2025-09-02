@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Cheng 👋
 
-<!--
-**chengchuu/chengchuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal GitHub repository!  
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Location:** Shanghai
+- **Interests:** Play with my cat
+
+## 📫 How to reach me
+
+- **Email:** <mazeyqian@gmail.com>
+- **Website:** <https://blog.mazey.net/>
+
+⭐️ From [Cheng](https://github.com/chengchuu)
+
+😊 Thank you for visiting my repository!
