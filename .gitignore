@@ -1,0 +1,38 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+desktop.ini
+
+# Ignore node modules
+node_modules/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore VS Code settings (if used)
+.vscode/
+
+# Ignore JetBrains IDE files
+.idea/
+
+# Ignore build output
+dist/
+build/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore temporary files
+*.swp
+*.swo
+*.tmp
+*.bak
