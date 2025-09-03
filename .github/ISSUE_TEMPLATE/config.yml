@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 defaults:
-  - name: "From: 留言板"
-    filename: message-zh.md
-    labels: [blog]
-    description: 留言板模板
   - name: "From: Message Board"
     filename: message-en.md
     labels: [blog]
     description: Message Board Template
+  - name: "From: 留言板"
+    filename: message-zh.md
+    labels: [blog]
+    description: 留言板模板
