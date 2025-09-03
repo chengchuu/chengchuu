@@ -18,9 +18,6 @@ __pycache__/
 # Ignore environment files
 .env
 
-# Ignore VS Code settings (if used)
-.vscode/
-
 # Ignore JetBrains IDE files
 .idea/
 
