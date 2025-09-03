@@ -1,4 +1,4 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 defaults:
   - name: "From: Message Board"
     filename: message-en.md
