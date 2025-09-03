@@ -1,6 +1,6 @@
 ---
 name: Common Issue Template
-about: Use this template to report bugs, suggest features, or ask questions.
+about: Report bugs, suggest features, or ask questions.
 title: ""
 labels: []
 assignees: ''
