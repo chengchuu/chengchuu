@@ -1,5 +1,5 @@
 ---
-name: Common Issue Template
+name: Zommon Issue Template
 about: Report bugs, suggest features, or ask questions.
 title: ""
 labels: []
