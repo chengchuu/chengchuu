@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+defaults:
+  - name: From: 留言板
+    filename: from-message-board.md
+    labels: blog
+    description: 留言板模板
+  - name: Default Issue
+    filename: default.md
+    labels: general
+    description: 默认问题模板
