@@ -4,7 +4,7 @@ defaults:
     filename: message.md
     labels: [blog]
     description: 留言板模板
-  - name: Default Issue
-    filename: default.md
+  - name: Common Issue
+    filename: common.md
     labels: []
     description: 默认问题模板
