@@ -1,9 +1,5 @@
 blank_issues_enabled: false
 defaults:
-  - name: Common Issue
-    filename: common.md
-    labels: []
-    description: Zommon Issue Template
   - name: "From: 留言板"
     filename: message.md
     labels: [blog]
