@@ -1,5 +1,5 @@
 ---
-name: 留言板模板
+name: "From: 留言板"
 about: 从留言板跳转的用户留言。
 title: "From: 留言板"
 labels: [blog]
