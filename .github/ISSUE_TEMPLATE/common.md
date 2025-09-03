@@ -1,33 +1,33 @@
 ---
-name: 通用问题模板
-about: 用于报告 bug、建议或其他任何问题
+name: Common Issue Template
+about: Use this template to report bugs, suggest features, or ask questions.
 title: ""
 labels: []
-assignees: []
+assignees: ''
 
 ---
 
-## 遇到的问题或建议
+## Describe your issue or suggestion
 
-请清晰简明地描述问题或建议。
+Please provide a clear and concise description of the problem or suggestion.
 
-## 复现步骤 (如有)
+## Steps to Reproduce (if applicable)
 
 1. xxx
 
-## 预期结果
+## Expected Behaviour
 
-期望发生什么？
+What did you expect to happen?
 
-## 实际结果
+## Actual Behaviour
 
-实际发生了什么？
+What actually happened?
 
-## 相关截图或日志 (可选)
+## Screenshots or Logs (optional)
 
-请上传相关图片或日志以帮助更好地定位问题。
+Attach relevant screenshots or logs to help us diagnose the issue.
 
 ---
 
-> 请勿在此处填写个人敏感信息。
-> 感谢反馈，会尽快处理!
+> Please do not include personal sensitive information (such as email, phone number, etc.).
+> Thank you for your feedback!

@@ -7,4 +7,4 @@ defaults:
   - name: Common Issue
     filename: common.md
     labels: []
-    description: 默认问题模板
+    description: Common Issue Template
