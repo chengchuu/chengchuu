@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 defaults:
-  - name: From: 留言板
+  - name: "From: 留言板"
     filename: message.md
     labels: blog
     description: 留言板模板
