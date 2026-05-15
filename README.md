@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-![Dudu: Rock That Body](./images/Dudu_Rock_That_Body_Tiny.gif)
+![Rock That Body](./images/rock-that-body.gif)
 
 ## npm
 
