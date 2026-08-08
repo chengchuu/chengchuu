@@ -17,4 +17,3 @@ Welcome to my profile!
 
 - GURL: [chengchuu/gurl](https://github.com/chengchuu/gurl) (2023)
 - Asiatz: [chengchuu/asiatz](https://github.com/chengchuu/asiatz) (2023)
-- GMdTable: [tzfqh/gmdtable](https://github.com/tzfqh/gmdtable) (2024)
