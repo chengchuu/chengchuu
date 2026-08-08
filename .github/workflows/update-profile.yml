@@ -1,0 +1,59 @@
+name: Update generated profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
+
+      - name: Checkout profile generator
+        uses: actions/checkout@v7
+        with:
+          repository: chengchuu/chengchuu.github.io
+          path: .profile-generator
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          package-manager-cache: false
+
+      - name: Install generator dependencies
+        run: npm install
+        working-directory: .profile-generator
+
+      - name: Generate current project metadata
+        run: npm run generate:data
+        working-directory: .profile-generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate profile README
+        run: npm run generate:readme -- --output ../README.md
+        working-directory: .profile-generator
+
+      - name: Commit profile changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Profile README is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update generated profile"
+          git push
