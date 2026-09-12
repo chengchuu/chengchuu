@@ -33,7 +33,7 @@ The generated tables must:
 
 - Use only `Project`, `Links`, `Created`, and `Latest release` columns.
 - Keep npm and Go projects in their correct sections.
-- Include every canonical project and omit unavailable resource links.
+- Include every canonical project unless `hideFromProfileReadme` is `true` in the sibling `src/config/projects.ts`. Omit unavailable resource links and empty categories.
 - Exclude status, relationship, owner, and maintainer fields.
 
 ## Verification
@@ -45,4 +45,4 @@ git diff --check
 git status --short
 ```
 
-Inspect the generated-file comment, preserved introduction and image, table headers, and all canonical projects. For generator behavior or metadata changes, use `npm run check` in `../chengchuu.github.io` instead of adding scripts or dependencies here.
+Inspect the generated-file comment, preserved introduction and image, table headers when projects are visible, and coverage of all README-visible projects. For generator behavior or metadata changes, use `npm run check` in `../chengchuu.github.io` instead of adding scripts or dependencies here.
