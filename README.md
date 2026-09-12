@@ -28,5 +28,5 @@ Welcome to my profile!
 
 | Project | Links | Created | Latest release |
 |:---|:---|:---|:---|
-| vue-china-map | [Demo](https://chengchuu.github.io/vue-china-map/) · [GitHub](https://github.com/chengchuu/vue-china-map) | 2017-11-22 | — |
-| bootstrap-blueprints | [Home](https://i.mazey.net/bootstrap-blueprints/) · [GitHub](https://github.com/chengchuu/bootstrap-blueprints) | 2017-06-22 | — |
+| vue-china-map | [Demo](https://chengchuu.github.io/vue-china-map/) · [GitHub](https://github.com/chengchuu/vue-china-map) | 2017-11-22 | 2026-07-07 |
+| bootstrap-blueprints | [Home](https://i.mazey.net/bootstrap-blueprints/) · [GitHub](https://github.com/chengchuu/bootstrap-blueprints) | 2017-06-22 | 2026-09-01 |
