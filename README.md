@@ -17,7 +17,7 @@ Welcome to my profile!
 | WeChat Launch App | [Home](https://chengchuu.github.io/mazey-wechat-launch-app/) · [Playground](https://chengchuu.github.io/mazey-wechat-launch-app/playground/) · [API](https://chengchuu.github.io/mazey-wechat-launch-app/api/) · [GitHub](https://github.com/chengchuu/mazey-wechat-launch-app) · [npm](https://www.npmjs.com/package/mazey-wechat-launch-app) | 2023-05-03 | 2026-09-06 |
 | Taro Utils | [Home](https://chengchuu.github.io/mazey-taro-utils/) · [Playground](https://chengchuu.github.io/mazey-taro-utils/playground/) · [API](https://chengchuu.github.io/mazey-taro-utils/api/) · [GitHub](https://github.com/chengchuu/mazey-taro-utils) · [npm](https://www.npmjs.com/package/mazey-taro-utils) | 2024-05-20 | 2026-08-31 |
 | WordPress Utils | [Home](https://chengchuu.github.io/mazey-wordpress-utils/) · [Playground](https://chengchuu.github.io/mazey-wordpress-utils/playground/) · [API](https://chengchuu.github.io/mazey-wordpress-utils/api/) · [GitHub](https://github.com/chengchuu/mazey-wordpress-utils) · [npm](https://www.npmjs.com/package/mazey-wordpress-utils) | 2022-05-02 | 2026-08-23 |
-| SCP Next | [Home](https://chengchuu.github.io/scp-next/) · [Examples](https://chengchuu.github.io/scp-next/examples/) · [API](https://chengchuu.github.io/scp-next/api/) · [GitHub](https://github.com/chengchuu/scp-next) · [npm](https://www.npmjs.com/package/scp-next) | 2026-07-03 | 2026-08-24 |
+| SCP Next CLI | [Home](https://chengchuu.github.io/scp-next/) · [Examples](https://chengchuu.github.io/scp-next/examples/) · [API](https://chengchuu.github.io/scp-next/api/) · [GitHub](https://github.com/chengchuu/scp-next) · [npm](https://www.npmjs.com/package/scp-next) | 2026-07-03 | 2026-08-24 |
 
 ## Go Packages
 
@@ -30,5 +30,5 @@ Welcome to my profile!
 
 | Project | Links | Created | Latest release |
 |:---|:---|:---|:---|
-| vue-china-map | [Demo](https://chengchuu.github.io/vue-china-map/) · [GitHub](https://github.com/chengchuu/vue-china-map) | 2017-11-22 | 2026-07-07 |
-| bootstrap-blueprints | [Home](https://i.mazey.net/bootstrap-blueprints/) · [GitHub](https://github.com/chengchuu/bootstrap-blueprints) | 2017-06-22 | 2026-09-01 |
+| Vue China Map | [Demo](https://chengchuu.github.io/vue-china-map/) · [GitHub](https://github.com/chengchuu/vue-china-map) | 2017-11-22 | 2026-07-07 |
+| Bootstrap Blueprints | [Home](https://i.mazey.net/bootstrap-blueprints/) · [GitHub](https://github.com/chengchuu/bootstrap-blueprints) | 2017-06-22 | 2026-09-01 |
