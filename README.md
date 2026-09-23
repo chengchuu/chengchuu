@@ -10,7 +10,7 @@ Welcome to my profile!
 
 | Project | Links | Created | Latest release |
 |:---|:---|:---|:---|
-| Mazey Utils | [Home](https://chengchuu.github.io/mazey/) · [Playground](https://chengchuu.github.io/mazey/playground/) · [API](https://chengchuu.github.io/mazey/api/) · [GitHub](https://github.com/chengchuu/mazey) · [npm](https://www.npmjs.com/package/mazey) | 2019-05-20 | 2026-09-20 |
+| Mazey Utils | [Home](https://chengchuu.github.io/mazey/) · [Playground](https://chengchuu.github.io/mazey/playground/) · [API](https://chengchuu.github.io/mazey/api/) · [GitHub](https://github.com/chengchuu/mazey) · [npm](https://www.npmjs.com/package/mazey) | 2019-05-20 | 2026-09-22 |
 | Lazy Load Images | [Home](https://chengchuu.github.io/mazey-lazy-load-images/) · [Playground](https://chengchuu.github.io/mazey-lazy-load-images/playground/) · [API](https://chengchuu.github.io/mazey-lazy-load-images/api/) · [GitHub](https://github.com/chengchuu/mazey-lazy-load-images) · [npm](https://www.npmjs.com/package/mazey-lazy-load-images) | 2022-04-30 | 2026-09-17 |
 | Vue Screenfull | [Home](https://chengchuu.github.io/vue-screenfull/) · [Playground](https://chengchuu.github.io/vue-screenfull/playground/) · [API](https://chengchuu.github.io/vue-screenfull/api/) · [GitHub](https://github.com/chengchuu/vue-screenfull) · [npm](https://www.npmjs.com/package/vue-screenfull) | 2018-08-26 | 2026-09-05 |
 | Layer ESM | [Home](https://chengchuu.github.io/layer-esm/) · [Playground](https://chengchuu.github.io/layer-esm/playground/) · [API](https://chengchuu.github.io/layer-esm/api/) · [GitHub](https://github.com/chengchuu/layer-esm) · [npm](https://www.npmjs.com/package/layer-esm) | 2026-06-21 | 2026-09-20 |
