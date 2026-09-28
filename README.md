@@ -32,3 +32,4 @@ Welcome to my profile!
 |:---|:---|:---|:---|
 | Vue China Map | [Demo](https://chengchuu.github.io/vue-china-map/) · [GitHub](https://github.com/chengchuu/vue-china-map) | 2017-11-22 | 2026-07-07 |
 | Bootstrap Blueprints | [Home](https://i.mazey.net/bootstrap-blueprints/) · [GitHub](https://github.com/chengchuu/bootstrap-blueprints) | 2017-06-22 | 2026-09-01 |
+| Go WeChat Demo | [GitHub](https://github.com/chengchuu/go-run-wechat-demo) | 2017-11-03 | 2024-02-15 |
