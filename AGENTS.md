@@ -29,7 +29,9 @@ npm run generate:readme -- --output ../chengchuu/README.md
 
 Metadata generation uses GitHub, npm, and the Go module proxy. Preserve existing valid metadata and report degraded results when a source is unavailable.
 
-The generated tables must:
+Contributions appear in a Project/Links/Description table before npm, with plain-text project names and linked `owner/repository` identifiers in Links, without upstream dates or versions. They follow the same README visibility setting as other projects.
+
+The generated tables for other categories must:
 
 - Use only `Project`, `Links`, `Created`, and `Latest release` columns.
 - Keep npm and Go projects in their correct sections.
