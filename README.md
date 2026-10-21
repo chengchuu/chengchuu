@@ -1,8 +1,8 @@
 # Hi, I'm Cheng 👋
 
-Welcome to my profile!
+I live with my cat, Dudu.
 
-![Rock That Body](./images/rock-that-body.gif)
+<img src="./images/dudu-229x165-tiny.png" alt="Dudu" width="229" height="165">
 
 <!-- This file is generated. Edit project data in chengchuu.github.io/src/config/projects.ts. -->
 
