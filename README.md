@@ -2,7 +2,7 @@
 
 I live with my cat, Dudu.
 
-<img src="./images/dudu-229x165-tiny.png" alt="Dudu" width="229" height="165">
+<img src="./images/dudu-225x159-tiny.png" alt="Dudu" width="229" height="165">
 
 <!-- This file is generated. Edit project data in chengchuu.github.io/src/config/projects.ts. -->
 
