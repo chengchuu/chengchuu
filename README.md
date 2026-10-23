@@ -31,5 +31,5 @@ Welcome to my profile!
 
 | Project | Links | Created | Latest release |
 |:---|:---|:---|:---|
-| Vue China Map | [Demo](https://chengchuu.github.io/vue-china-map/) | 2017-11-22 | 2026-07-07 |
+| Vue ECharts Map | [Demo](https://chengchuu.github.io/vue-china-map/) | 2017-11-22 | 2026-07-07 |
 | Bootstrap Blueprints | [Home](https://chengchuu.github.io/bootstrap-blueprints/) | 2017-06-22 | 2026-09-01 |
