@@ -1,8 +1,8 @@
 # Hi, I'm Cheng 👋
 
-I live with my cat, Dudu.
+Welcome to my profile!
 
-<img src="./images/dudu-225x159-tiny.png" alt="Dudu" width="229" height="165">
+![Rock That Body](./images/rock-that-body.gif)
 
 <!-- This file is generated. Edit project data in chengchuu.github.io/src/config/projects.ts. -->
 
@@ -10,7 +10,7 @@ I live with my cat, Dudu.
 
 | Project | Links | Created | Latest release |
 |:---|:---|:---|:---|
-| Mazey Utils | [Home](https://chengchuu.github.io/mazey/) · [Playground](https://chengchuu.github.io/mazey/playground/) · [API](https://chengchuu.github.io/mazey/api/) | 2019-05-20 | 2026-10-20 |
+| Mazey Utils | [Home](https://chengchuu.github.io/mazey/) · [Playground](https://chengchuu.github.io/mazey/playground/) · [API](https://chengchuu.github.io/mazey/api/) | 2019-05-20 | 2026-10-21 |
 | Vue Screenfull | [Home](https://chengchuu.github.io/vue-screenfull/) · [Playground](https://chengchuu.github.io/vue-screenfull/playground/) · [API](https://chengchuu.github.io/vue-screenfull/api/) | 2018-08-26 | 2026-09-24 |
 | Lazy Load Images | [Home](https://chengchuu.github.io/mazey-lazy-load-images/) · [Playground](https://chengchuu.github.io/mazey-lazy-load-images/playground/) · [API](https://chengchuu.github.io/mazey-lazy-load-images/api/) | 2022-04-30 | 2026-09-25 |
 | Layer ESM | [Home](https://chengchuu.github.io/layer-esm/) · [Playground](https://chengchuu.github.io/layer-esm/playground/) · [API](https://chengchuu.github.io/layer-esm/api/) | 2026-06-21 | 2026-10-20 |
