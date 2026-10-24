@@ -6,7 +6,7 @@ This repository publishes Cheng's GitHub profile. Its `README.md` is generated b
 
 ## Maintained files
 
-- Preserve the user-authored introduction and `images/rock-that-body.gif`.
+- Preserve the user-authored introduction and its selected image. Keep existing image assets unless their removal is requested.
 - Maintain issue templates under `.github/ISSUE_TEMPLATE/` directly.
 - Maintain `.github/workflows/update-profile.yml` here. It checks out the sibling generator, refreshes metadata, generates `README.md`, and commits the README only when its content changes.
 - Keep system files, dependencies, build output, and temporary files ignored.
@@ -48,3 +48,9 @@ git status --short
 ```
 
 Inspect the generated-file comment, preserved introduction and image, table headers when projects are visible, and coverage of all README-visible projects. For generator behavior or metadata changes, use `npm run check` in `../chengchuu.github.io` instead of adding scripts or dependencies here.
+
+## Profile README ownership
+
+The content above the generated-file comment in the profile README is user-authored. Edit the introduction and image there directly; generation preserves that prefix exactly. The comment marks the beginning of the generated project section, which extends to the end of the file. Keep exactly one marker. Generation refuses to overwrite an existing README with a missing or duplicate marker.
+
+A new output file contains only the generated marker and project sections. Add personal content above the marker. Existing project rows remain generated from the canonical project configuration; do not edit them manually.
