@@ -11,13 +11,13 @@ I live with my cat, Dudu.
 | Project | Links | Created | Latest release |
 |:---|:---|:---|:---|
 | Mazey Utils | [Home](https://chengchuu.github.io/mazey/) · [Playground](https://chengchuu.github.io/mazey/playground/) · [API](https://chengchuu.github.io/mazey/api/) | 2019-05-20 | 2026-11-07 |
-| Vue Screenfull | [Home](https://chengchuu.github.io/vue-screenfull/) · [Playground](https://chengchuu.github.io/vue-screenfull/playground/) · [API](https://chengchuu.github.io/vue-screenfull/api/) | 2018-08-26 | 2026-09-24 |
+| Vue Screenfull | [Home](https://chengchuu.github.io/vue-screenfull/) · [Playground](https://chengchuu.github.io/vue-screenfull/playground/) · [API](https://chengchuu.github.io/vue-screenfull/api/) | 2018-08-26 | 2026-11-08 |
 | Lazy Load Images | [Home](https://chengchuu.github.io/mazey-lazy-load-images/) · [Playground](https://chengchuu.github.io/mazey-lazy-load-images/playground/) · [API](https://chengchuu.github.io/mazey-lazy-load-images/api/) | 2022-04-30 | 2026-11-07 |
 | Layer ESM | [Home](https://chengchuu.github.io/layer-esm/) · [Playground](https://chengchuu.github.io/layer-esm/playground/) · [API](https://chengchuu.github.io/layer-esm/api/) | 2026-06-21 | 2026-11-07 |
-| WeChat Launch App | [Home](https://chengchuu.github.io/mazey-wechat-launch-app/) · [Playground](https://chengchuu.github.io/mazey-wechat-launch-app/playground/) · [API](https://chengchuu.github.io/mazey-wechat-launch-app/api/) | 2023-05-03 | 2026-11-07 |
-| WordPress Utils | [Home](https://chengchuu.github.io/mazey-wordpress-utils/) · [Playground](https://chengchuu.github.io/mazey-wordpress-utils/playground/) · [API](https://chengchuu.github.io/mazey-wordpress-utils/api/) | 2022-05-02 | 2026-10-03 |
+| WeChat Launch App | [Home](https://chengchuu.github.io/mazey-wechat-launch-app/) · [Playground](https://chengchuu.github.io/mazey-wechat-launch-app/playground/) · [API](https://chengchuu.github.io/mazey-wechat-launch-app/api/) | 2023-05-03 | 2026-11-08 |
+| WordPress Utils | [Home](https://chengchuu.github.io/mazey-wordpress-utils/) · [Playground](https://chengchuu.github.io/mazey-wordpress-utils/playground/) · [API](https://chengchuu.github.io/mazey-wordpress-utils/api/) | 2022-05-02 | 2026-11-08 |
 | Taro Utils | [Home](https://chengchuu.github.io/mazey-taro-utils/) · [Playground](https://chengchuu.github.io/mazey-taro-utils/playground/) · [API](https://chengchuu.github.io/mazey-taro-utils/api/) | 2024-05-20 | 2026-11-07 |
-| SCP Next CLI | [Home](https://chengchuu.github.io/scp-next/) · [Examples](https://chengchuu.github.io/scp-next/examples/) · [API](https://chengchuu.github.io/scp-next/api/) | 2026-07-03 | 2026-10-04 |
+| SCP Next CLI | [Home](https://chengchuu.github.io/scp-next/) · [Examples](https://chengchuu.github.io/scp-next/examples/) · [API](https://chengchuu.github.io/scp-next/api/) | 2026-07-03 | 2026-11-08 |
 
 ## Go Packages
 
